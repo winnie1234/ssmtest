@@ -58,4 +58,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-/target/
+target
+*.jar
+/lib/
